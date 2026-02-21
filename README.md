@@ -3,7 +3,7 @@ MindfulCompanion is a web app designed to support mental well-being. It offers t
 
 🔗 Live Demo: https://mindfullcompanion.netlify.app/
 
-📁 GitHub Repo: https://github.com/kashif7230/MindfulCompanion
+📁 GitHub Repo: https://github.com/Harshsinghgithu/Mindfullcompanion
 
 🚀 Features
 
